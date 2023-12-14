@@ -57,9 +57,13 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 
 ### Machine Learning Model 3: Decision Trees Model
 *Accuracy*: The model achieved an accuracy of 99.0%, indicating a high level of overall correctness in its predictions.
+
 *Precision for Healthy Loans (0)*: 99%, showing excellent reliability in predicting low-risk loans.
+
 *Recall for Healthy Loans (0)*: 100%, indicating the model's ability to correctly identify the majority of low-risk loans.
+
 *Precision for High-Risk Loans (1)*: 84%, which is good and indicates the model's reliability in identifying loans at high risk of default.
+
 *Recall for High-Risk Loans (1)*: 83%, suggesting that the model can correctly identify a high percentage of high-risk loans.
 
 *Harmonic mean of precision and recall score (F1)* for Healthy (99%) and High-risk loans (84%) were also good indicating that model is suitable for predicting the high-risk loans.
